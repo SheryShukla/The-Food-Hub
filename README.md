@@ -29,8 +29,3 @@ python manage.py migrate
 **5.Start Server**
 ```sh
 python manage.py runserver
-```
-# Contributors
-Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.<br/>
-
-Please star the repo and feel free to make pull requests.
